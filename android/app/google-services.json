@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "731240531325",
+    "firebase_url": "https://gym-journal-z.firebaseio.com",
+    "project_id": "gym-journal-z",
+    "storage_bucket": "gym-journal-z.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731240531325:android:e1218d6e7e6b9728",
+        "android_client_info": {
+          "package_name": "tk.zportfolio.gym_journal_z"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731240531325-p4ps3ecpu49p8pv4aqbd3kme5s8e0k13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRUNu_rSxxPq-SdD67OLgkwfZ50lvpQbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731240531325-p4ps3ecpu49p8pv4aqbd3kme5s8e0k13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
